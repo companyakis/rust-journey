@@ -1,2 +1,4 @@
 # rust-journey
-Rust 
+
+My Tour of Rust:
+https://github.com/companyakis/my-tour-of-rust
